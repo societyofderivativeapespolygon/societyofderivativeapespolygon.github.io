@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8694E297544D1257064DAe81253908CC23E0CCf4",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8694e297544d1257064dae81253908cc23e0ccf4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Society of Derivative Apes Polygon",
+  "SYMBOL": "SODAP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/societyofderivativeapespolygon",
+  "SHOW_BACKGROUND": true
+}
